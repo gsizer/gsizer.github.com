@@ -10,7 +10,7 @@ GETBANNER=False
 VERBOSE=False
 
 USEAGE="""\n\tUSEAGE:
-\n\t python netTool.py -a TARGET_ADDRESS -p TARGET_PORT [-s N] [-b] [-h] [-v]
+\n\t -a TARGET_ADDRESS -p TARGET_PORT [-s N] [-b] [-h] [-v]
 \n\t -b = Get Banner from service if available
 \n\t -h = Show this help message
 \n\t -s = Scan ports from -p TARGET_PORT to -s N inclusively
